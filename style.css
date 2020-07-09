@@ -1,19 +1,19 @@
-/* @media screen and (max-width: 429px) {
+@media screen and (max-width: 429px) {
   body {
-    width: 60%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
-} */
+}
 
-/* @media screen and (max-width: 429px) {
+@media screen and (max-width: 429px) {
   .container {
-    width: 60%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
   }
-} */
+}
 
 .row {
   width: 992px;
@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 429px) {
   .row {
-    width: 60%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
