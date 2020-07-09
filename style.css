@@ -1,4 +1,4 @@
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   body {
     width: 90%;
     margin-left: auto;
@@ -6,7 +6,7 @@
   }
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   .container {
     width: 80%;
     margin-left: auto;
@@ -22,7 +22,7 @@
   margin-top: 100px;
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   .row {
     width: 100%;
     margin-left: auto;
@@ -49,7 +49,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   #lezioni .row>.left,
   #lezioni .row>.right {
     width: 100%;
@@ -58,7 +58,7 @@
   }
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   h1 {
     width: 100%;
     font-size: 100%;
@@ -79,7 +79,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right  {
@@ -108,7 +108,7 @@
   padding: 30px
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   #why .row>.first,
   #why .row>.second,
   #why .row>.third {
@@ -129,7 +129,7 @@
   background-color: #f9f9f9;
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 420px) {
   .container.grey {
     width: 100%;
     margin: auto;
